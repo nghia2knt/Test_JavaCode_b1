@@ -1,3 +1,3 @@
 public class JavaCode {
-	abc;
+	abcdef;
 }
